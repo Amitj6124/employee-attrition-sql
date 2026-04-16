@@ -52,4 +52,12 @@ Overtime Policy: Review the workload for roles requiring excessive overtime to p
 Environment Check: Investigate departments with low "Environment Satisfaction" ratings (1-2) as they show the highest attrition risk.
 
 Dashboard Preview
-(Bhai, yahan apne Page 1 aur Page 2 ke screenshots upload karke unka link dalo)
+### 1. Executive Overview
+Focuses on high-level KPIs, attrition trends over time, and work-life balance (Overtime).
+![Executive Overview](Images/up1.png)
+
+---
+
+### 2. Retention Drivers
+Deep dive into satisfaction levels, job roles, and employee job levels to identify churn root causes.
+![Retention Drivers](Images/up2.png)
